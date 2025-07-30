@@ -2387,6 +2387,10 @@ body.no-scroll {
     .partner{
         overflow: hidden;
     }
+     .partner-background{
+        height: 100%;
+        overflow: hidden;
+    }
    .rectangle{
         width: 100%;
         height: 270px;
@@ -2647,6 +2651,7 @@ body.no-scroll {
         margin-top: -220px;
         overflow: hidden;
     }
+  
     .publication-heading{
         display: flex;
         gap: 6px;
@@ -3711,6 +3716,10 @@ body.no-scroll {
         flex-shrink: 0;
     }
     .partner{
+        overflow: hidden;
+    }
+    .partner-background{
+        height: 100%;
         overflow: hidden;
     }
     
