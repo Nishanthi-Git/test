@@ -1,0 +1,9 @@
+<svg width="249" height="79" viewBox="0 0 249 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-10" y="-10" width="269" height="99"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(5px);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="10" d="M12.9258 1H236.074C242.652 1 248 6.42138 248 13.167C248 19.9125 242.652 25.333 236.074 25.333H140.911C133.193 25.3333 126.986 31.7175 126.986 39.5C126.986 47.282 133.162 53.6335 140.847 53.667H161.593C168.17 53.6671 173.518 59.0876 173.519 65.833C173.519 72.5785 168.17 77.9999 161.593 78H54.6602C48.0827 78 42.7344 72.5786 42.7344 65.833C42.7345 59.0875 48.0828 53.667 54.6602 53.667H74.9502C82.6336 53.6333 88.8105 47.3144 88.8105 39.5C88.8105 31.6849 82.6014 25.3331 74.8848 25.333H12.9258C6.34842 25.333 1.00017 19.9125 1 13.167C1 6.42138 6.34831 1 12.9258 1Z" stroke="url(#paint0_linear_2633_28)" stroke-opacity="0.8" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_2633_28" x1="22.3776" y1="40.0427" x2="223.454" y2="40.3419" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B69875"/>
+<stop offset="1" stop-color="#20255D" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
